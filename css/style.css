@@ -413,7 +413,8 @@ a:focus {
 }
 
 .service_section .service_container .box .detail-box {
-  margin-top: 15px;
+  margin: 15px;
+  margin-bottom: 0px;
 }
 
 .service_section .service_container .box .detail-box h5 {
